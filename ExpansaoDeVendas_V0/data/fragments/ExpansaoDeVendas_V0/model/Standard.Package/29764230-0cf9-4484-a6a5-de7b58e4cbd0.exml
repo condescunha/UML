@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="expansaodevendas_v0" version="4">
+  <OBJECT>
+    <ID name="expansaodevendas_v0" mc="Standard.Package" uid="29764230-0cf9-4484-a6a5-de7b58e4cbd0"/>
+    <PID name="ExpansaoDeVendas_V0" mc="Standard.Project" uid="0a52b609-fa56-45f5-9ca2-035a1150fbff"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[expansaodevendas_v0]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
